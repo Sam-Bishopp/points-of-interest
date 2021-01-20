@@ -1,0 +1,241 @@
+-- Merging decision tree log ---
+manifest
+ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\5ac538b536ea8bc31fd1758cef9a22e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8ab6ae741b4e31e53d0c0e0da8c22ade\AndroidManifest.xml:2:1-11:12
+MERGED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:2:1-37:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\81bbd46d1c1ffb4ba89b5634569bba76\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\12ac86cd0ea1dd1ba4b099ba10cb0637\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\53884c442deb47df944dff37a6d7c0b7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\1d9ec94cfc9c3f9d5e722031459cce27\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8c33959a58a2843f3a505edb72c60226\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\fa6802b851cb5477e6224482568ca54e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4c21ae07af4b8290db1cbec1718646c7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\6710b8b71db1ad1c250f6716bdc5f95c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\33628bf3e7ba5323a6718b1641ca216d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b358b8dd58428da567c790d10abc5964\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\32d46617850267cc9b3da2f71e3094f4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\673db46e654eb7a8375e4c3364dde52b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\0a319f290e9f815e75705c507f86a2d2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b5d6662b3196349b82d5a050ad7c06a1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a5aad89619b89ddda64a48c22b054699\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\81b1db7832d3fd81401ab8b664736b55\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\014de8d5de38d1c25821c5e07bafb1d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\73bb3b2e11b259bd5157ec72cc8f8ae4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\9e5739008aef083b1d1eac6b0454819f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\a39e3ea6c27bb7d13fe3782d386e2e08\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1dca52f93c0862264f9d915d8b909d02\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b27d4f1793d41063468d1d4b1c3e9302\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\bb0fab6e175fcccba70bb1b630273a08\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e17240a92515be9d2fe98752586c7c7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b168704e186472d59daf4779bb212206\AndroidManifest.xml:17:1-22:12
+INJECTED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml
+		INJECTED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml
+		ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml
+		ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:20:5-67
+MERGED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:20:5-67
+	android:name
+		ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:6:5-80
+MERGED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:22:5-80
+MERGED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:7:5-81
+MERGED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:21:5-81
+MERGED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:21:5-81
+	android:name
+		ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:16:5-79
+MERGED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:9:5-76
+MERGED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:18:5-76
+MERGED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:10:5-79
+MERGED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:19:5-79
+MERGED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:10:22-76
+application
+ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:14:5-38:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8ab6ae741b4e31e53d0c0e0da8c22ade\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8ab6ae741b4e31e53d0c0e0da8c22ade\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b5d6662b3196349b82d5a050ad7c06a1\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b5d6662b3196349b82d5a050ad7c06a1\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a5aad89619b89ddda64a48c22b054699\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a5aad89619b89ddda64a48c22b054699\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b5d6662b3196349b82d5a050ad7c06a1\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:20:9-40
+activity#com.example.pointsofinterest.MainActivity
+ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:21:9-26:20
+	android:name
+		ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:21:19-75
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.example.pointsofinterest.AddPoiActivity
+ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:28:9-31:20
+	android:label
+		ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:29:13-71
+activity#com.example.pointsofinterest.PreferencesActivity
+ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:33:9-36:20
+	android:label
+		ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:35:13-48
+	android:name
+		ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml:34:13-76
+uses-sdk
+INJECTED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml
+INJECTED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\5ac538b536ea8bc31fd1758cef9a22e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\5ac538b536ea8bc31fd1758cef9a22e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8ab6ae741b4e31e53d0c0e0da8c22ade\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\8ab6ae741b4e31e53d0c0e0da8c22ade\AndroidManifest.xml:5:5-7:41
+MERGED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:7:5-9:41
+MERGED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\81bbd46d1c1ffb4ba89b5634569bba76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\81bbd46d1c1ffb4ba89b5634569bba76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\12ac86cd0ea1dd1ba4b099ba10cb0637\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\12ac86cd0ea1dd1ba4b099ba10cb0637\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\53884c442deb47df944dff37a6d7c0b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\53884c442deb47df944dff37a6d7c0b7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\1d9ec94cfc9c3f9d5e722031459cce27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\1d9ec94cfc9c3f9d5e722031459cce27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8c33959a58a2843f3a505edb72c60226\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\8c33959a58a2843f3a505edb72c60226\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\fa6802b851cb5477e6224482568ca54e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\fa6802b851cb5477e6224482568ca54e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4c21ae07af4b8290db1cbec1718646c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\4c21ae07af4b8290db1cbec1718646c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\6710b8b71db1ad1c250f6716bdc5f95c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\6710b8b71db1ad1c250f6716bdc5f95c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\33628bf3e7ba5323a6718b1641ca216d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\33628bf3e7ba5323a6718b1641ca216d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b358b8dd58428da567c790d10abc5964\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\b358b8dd58428da567c790d10abc5964\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\32d46617850267cc9b3da2f71e3094f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\32d46617850267cc9b3da2f71e3094f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\673db46e654eb7a8375e4c3364dde52b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\673db46e654eb7a8375e4c3364dde52b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\0a319f290e9f815e75705c507f86a2d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\0a319f290e9f815e75705c507f86a2d2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b5d6662b3196349b82d5a050ad7c06a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\b5d6662b3196349b82d5a050ad7c06a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a5aad89619b89ddda64a48c22b054699\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\a5aad89619b89ddda64a48c22b054699\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\81b1db7832d3fd81401ab8b664736b55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\81b1db7832d3fd81401ab8b664736b55\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\014de8d5de38d1c25821c5e07bafb1d8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\014de8d5de38d1c25821c5e07bafb1d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\73bb3b2e11b259bd5157ec72cc8f8ae4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\73bb3b2e11b259bd5157ec72cc8f8ae4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\9e5739008aef083b1d1eac6b0454819f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\9e5739008aef083b1d1eac6b0454819f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\a39e3ea6c27bb7d13fe3782d386e2e08\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\a39e3ea6c27bb7d13fe3782d386e2e08\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1dca52f93c0862264f9d915d8b909d02\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\1dca52f93c0862264f9d915d8b909d02\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b27d4f1793d41063468d1d4b1c3e9302\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\b27d4f1793d41063468d1d4b1c3e9302\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\bb0fab6e175fcccba70bb1b630273a08\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\bb0fab6e175fcccba70bb1b630273a08\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e17240a92515be9d2fe98752586c7c7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e17240a92515be9d2fe98752586c7c7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b168704e186472d59daf4779bb212206\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\b168704e186472d59daf4779bb212206\AndroidManifest.xml:20:5-44
+INJECTED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml
+INJECTED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml
+		ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml
+		INJECTED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml
+		ADDED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml
+		INJECTED from I:\University\Year 2\Term 2\Mobile Application Development\Assessment\Assignment\app\src\main\AndroidManifest.xml
+supports-screens
+ADDED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:11:5-14:40
+	android:largeScreens
+		ADDED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:13:9-36
+	android:normalScreens
+		ADDED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:14:9-37
+	android:anyDensity
+		ADDED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:12:9-34
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:17:22-78
+uses-feature#android.hardware.location.network
+ADDED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:25:9-57
+uses-feature#android.hardware.location.gps
+ADDED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.telephony
+ADDED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:31:9-50
+uses-feature#android.hardware.wifi
+ADDED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [org.osmdroid:osmdroid-android:5.6.5] C:\Users\Sam\.gradle\caches\transforms-1\files-1.1\osmdroid-android-5.6.5.aar\66081021e2648acb3fb2b0916e0185cb\AndroidManifest.xml:34:9-45

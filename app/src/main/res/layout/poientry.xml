@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/name"
+        android:hint="@string/poi_name"
+        android:gravity="top"
+        android:inputType="textCapSentences|textAutoCorrect|textMultiLine"
+        android:textSize="8pt"
+        />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/type"
+        android:hint="@string/poi_type"
+        android:gravity="top"
+        android:inputType="textCapSentences|textAutoCorrect|textMultiLine"
+        android:textSize="8pt"
+        />
+
+    <EditText
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/desc"
+        android:hint="@string/poi_desc"
+        android:gravity="top"
+        android:inputType="textCapSentences|textAutoCorrect|textMultiLine"
+        android:textSize="8pt"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/poi_button"
+        android:id="@+id/btnPoi" />
+
+</LinearLayout>

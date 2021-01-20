@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/poientry" android:title="@string/poientry_s"/>
+    <item android:id="@+id/poi_save" android:title="@string/poi_save_s"/>
+    <item android:id="@+id/poi_load" android:title="@string/poi_load_s"/>
+    <item android:id="@+id/preferences" android:title="@string/preferences"/>
+
+</menu>

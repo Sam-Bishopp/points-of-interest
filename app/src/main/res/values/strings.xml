@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Points of Interest</string>
+    <string name="poi_activity">Add a Point of Interest</string>
+    <string name="marker_activity">Set POI Marker on Map</string>
+    <string name="poi_name">Enter a name for this location</string>
+    <string name="poi_type">Enter a type for this location</string>
+    <string name="poi_desc">Enter a description for this location</string>
+    <string name="poi_button">Add Point of Interest</string>
+    <string name="poientry_s">Add a POI</string>
+    <string name="poi_load_s">Load Your POIs</string>
+    <string name="poi_save_s">Save Your POIs</string>
+    <string name="preferences">Preferences</string>
+</resources>
